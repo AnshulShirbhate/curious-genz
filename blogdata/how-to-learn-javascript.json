@@ -1,0 +1,7 @@
+{
+    "title": "How to learn Javascript",
+    "content": "To learn JavaScript effectively, start by understanding its syntax and basic concepts such as variables, data types, functions, and control structures through interactive tutorials on platforms like Codecademy or freeCodeCamp. Next, build small projects to apply what you've learned, such as a to-do list or a simple game, while using resources like MDN Web Docs for reference. Gradually explore more advanced topics like asynchronous programming, APIs, and frameworks/libraries like React or Node.js by following structured courses, reading documentation, and practicing coding challenges on sites like LeetCode or HackerRank. Consistent practice, building projects, and participating in developer communities will reinforce your knowledge and improve your skills.",
+    "author": "Anshul Shirbate",
+    "slug": "how-to-learn-javascript",
+    "no": 1
+}

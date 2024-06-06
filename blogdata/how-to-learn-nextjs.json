@@ -1,0 +1,7 @@
+{
+    "title": "How to learn NextJS",
+    "content": "To learn Next.js effectively, start with a solid understanding of React as Next.js builds on it, then follow the official Next.js documentation to grasp core concepts like file-based routing, server-side rendering, and static site generation. Build small projects, such as a personal blog or portfolio site, to apply these concepts practically. Utilize resources like Next.js tutorials on platforms like YouTube, freeCodeCamp, and Udemy to deepen your understanding. Practice integrating features like API routes, dynamic routing, and data fetching methods. Join developer communities and forums to stay updated on best practices and new features, and consistently build and refine projects to solidify your knowledge.",
+    "author": "Anshul Shirbhate",
+    "slug": "how-to-learn-nextjs",
+    "no": 2
+}
